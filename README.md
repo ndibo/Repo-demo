@@ -1,1 +1,1 @@
-HEY, LET'S LEARN GIT 
+Hey, let's learn Git and GitHub
